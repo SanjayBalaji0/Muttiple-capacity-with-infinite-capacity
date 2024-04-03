@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# EX: 5: Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 # NAME : S.Sanjay Balaji
 # REGISTER NUMBER : 212223240149
 ## Aim :
